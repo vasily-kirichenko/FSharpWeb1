@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>Utilities</name></assembly>
+<members>
+<member name="M:Utilities.Async.startAsPlainTask(Microsoft.FSharp.Control.FSharpAsync{Microsoft.FSharp.Core.Unit})">
+<summary>
+ Executes a computation in the thread pool. Returns a Task that has no return value.
+</summary>
+</member>
+<member name="M:Utilities.Async.awaitPlainTask(System.Threading.Tasks.Task)">
+<summary>
+ Returns an asynchronous computation that waits for the given task to complete.
+</summary>
+</member>
+<member name="T:Utilities.Async">
+
+</member>
+</members>
+</doc>

@@ -5,10 +5,3 @@ c:\users\chris\documents\visual studio 2013\Projects\FSharpWeb1\Utilities\bin\De
 c:\users\chris\documents\visual studio 2013\Projects\FSharpWeb1\Utilities\bin\Debug\FSharp.Core.xml
 c:\users\chris\documents\visual studio 2013\Projects\FSharpWeb1\Utilities\obj\Debug\Utilities.dll
 c:\users\chris\documents\visual studio 2013\Projects\FSharpWeb1\Utilities\obj\Debug\Utilities.pdb
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\bin\Debug\Utilities.XML
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\bin\Debug\Utilities.dll
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\bin\Debug\Utilities.pdb
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\bin\Debug\FSharp.Core.dll
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\bin\Debug\FSharp.Core.xml
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\obj\Debug\Utilities.dll
-F:\Downloads\FSharpWeb1\FSharpWeb1\Utilities\obj\Debug\Utilities.pdb
